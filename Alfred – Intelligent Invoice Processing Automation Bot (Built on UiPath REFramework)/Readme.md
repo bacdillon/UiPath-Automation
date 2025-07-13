@@ -3,6 +3,8 @@ Alfred is an intelligent, attended automation bot built on UiPath REFramework (R
 Watch Alfred in action 👇
 [![Alfred in action](https://github.com/bacdillon/RPA-UiPath/raw/main/Alfred%20%E2%80%93%20Intelligent%20Invoice%20Processing%20Automation/img/alfred_action.png)](https://vimeo.com/1081363310?share=copy#t=0)
 
+https://github.com/bacdillon/UiPath-Automation/blob/main/Alfred%20%E2%80%93%20Intelligent%20Invoice%20Processing%20Automation%20Bot%20(Built%20on%20UiPath%20REFramework)/img/Screen1.png
+
 **Process Flow Description**
 1. REFramework Initiation -
 Initializes configuration settings, opens required apps, and closes unnecessary ones. On error, exception handling ends the process.

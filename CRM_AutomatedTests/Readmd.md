@@ -8,3 +8,6 @@
 | Create New Customer  | User Story 4           | `TC_004_UserCanCreateNewCustomer`       | `/TestCases/Customers/TC_004_UserCanCreateNewCustomer.xaml` |
 
 ---
+
+## Watch Alfred in Action 👇	
+![IMAGE ALT TEXT HERE](https://github.com/bacdillon/UiPath-Automation/blob/main/CRM_AutomatedTests/Animated%20image/sys_CRMApp_Testing_Alfred.gif)

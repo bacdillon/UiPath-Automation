@@ -17,3 +17,11 @@ Test automation is the process of executing test cases automatically using softw
 
 ## Testing process by planning and monitoring tests	- Test Manager
 ![IMAGE ALT TEXT HERE](https://github.com/bacdillon/UiPath-Automation/blob/main/CRM_AutomatedTests/Animated%20image/sys_CRMApp_Testing_Alfred.gif)
+
+## Data Driven Testing with form status
+**Objective** <br>
+Data-driven testing, test workflows and applications across various scenarios. Ensure test cases use the prepared test data, debug and run data-driven test cases only from the Test Explorer panel. 
+
+![IMAGE ALT TEXT HERE](https://github.com/bacdillon/RPA-UiPath/blob/main/Optimize%20Testing%20with%20UiPath%20Automation/Data%20Driven%20Testing%20with%20form%20status/Data-Driven-Testing-with-form-st.gif)
+
+

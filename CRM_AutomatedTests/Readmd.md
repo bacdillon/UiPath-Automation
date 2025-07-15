@@ -1,4 +1,4 @@
-## 📋 Test Case Summary
+## Test Case Summary
 
 | Feature              | Azure DevOps Work Item | UiPath Test Case Name                   | GitHub File Path                                      |
 |----------------------|------------------------|-----------------------------------------|--------------------------------------------------------|

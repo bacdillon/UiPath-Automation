@@ -13,7 +13,7 @@ Test automation is the process of executing test cases automatically using softw
 ![IMAGE ALT TEXT HERE](https://github.com/bacdillon/UiPath-Automation/blob/main/CRM_AutomatedTests/Animated%20image/sys_CRMApp_Testing_Alfred.gif)
 
 ## Continuously test to uncover and fix underlying issues with Orchestrator
-![IMAGE ALT TEXT HERE](https://github.com/bacdillon/UiPath-Automation/blob/main/CRM_AutomatedTests/Animated%20image/sys_CRMApp_Testing_Alfred.gif)
+![IMAGE ALT TEXT HERE](https://github.com/bacdillon/UiPath-Automation/blob/main/CRM_AutomatedTests/Animated%20image/Test%20Set%20in%20UiPath%20Orchestrator.gif)
 
 ## Testing process by planning and monitoring tests	- Test Manager
 ![IMAGE ALT TEXT HERE](https://github.com/bacdillon/UiPath-Automation/blob/main/CRM_AutomatedTests/Animated%20image/sys_CRMApp_Testing_Alfred.gif)

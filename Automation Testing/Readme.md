@@ -22,7 +22,7 @@ Test automation is the process of executing test cases automatically using softw
 **Objective** <br>
 Data-driven testing, test workflows and applications across various scenarios. Ensure test cases use the prepared test data, debug and run data-driven test cases only from the Test Explorer panel. 
 
-![IMAGE ALT TEXT HERE](https://github.com/bacdillon/UiPath-Automation/blob/main/CRM_AutomatedTests/Animated%20image/Data-Driven-Testing-with-form-st.gif)
+![IMAGE ALT TEXT HERE](https://github.com/bacdillon/UiPath-Automation/blob/main/Automation%20Testing/Animated%20image/Data-Driven-Testing-with-form-st.gif)
 
 ## This is a simple Test Case 
 Verify that user is able to login successfully into the ACME System 1 web application by entering valid credential. 

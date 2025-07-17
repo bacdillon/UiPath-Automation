@@ -1,7 +1,7 @@
 ## Digital IT Helpdesk Support
 UiPath integrate with ServiceNow, Chatbot using Copilot Studio Agent and Streamlit.
-- [x] 1. CSM IT Service Request System (https://vimeo.com/1096167084?share=copy)
-- [x] 2. ServiceNow Incident (https://vimeo.com/1096167868?share=copy)
+- [x] 1. Download a copy of data from legacy CSM IT Service Request System (https://vimeo.com/1096167084?share=copy)
+- [x] 2. Update ServiceNow Incidents (https://vimeo.com/1096167868?share=copy)
 - [x] 3. Copilot Studio Agent Integration 👇
 
 The agent assist you checking the status of ServiceNow IT helpdesk tickets (incidents) and provides information from knowledge articles related to company policies and HR scenarios.

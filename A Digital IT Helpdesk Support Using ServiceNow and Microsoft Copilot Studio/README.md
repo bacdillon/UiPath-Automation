@@ -1,6 +1,8 @@
 ## Digital IT Helpdesk Support
 Assist you checking the status of ServiceNow IT helpdesk tickets (incidents) and provides information from knowledge articles related to company policies and HR scenarios.
 
+UiPath integrate with ServiceNow, Chatbot using Copilot Studio Agent and Streamlit
+
 ## Instruction
 1. Launch the chat window 👉 <a href="https://bacdillon.github.io/Digital-IT-Helpdesk-Support/" target="_blank">Digital-IT-Helpdesk-Support</a>
 3. Click Ticket Status Option <br>

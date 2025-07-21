@@ -10,7 +10,7 @@ Test automation is the process of executing test cases automatically using softw
 | Create New Customer  | User Story 4           | `TC_004_UserCanCreateNewCustomer`       | `/TestCases/Customers/TC_004_UserCanCreateNewCustomer.xaml` |
 
 ## Build resilient automations faster with Studio
-![IMAGE ALT TEXT HERE](https://github.com/bacdillon/UiPath-Automation/blob/main/Automation%20Testing/Animated%20image/sys_CRMApp_Testing_Alfred.gif)
+![IMAGE ALT TEXT HERE](https://github.com/bacdillon/UiPath-Automation/blob/main/A%20Minimal%20Setup%20for%20Automation%20Testing/Animated%20image/sys_CRMApp_Testing_Alfred.gif)
 
 ## Continuously test to uncover and fix underlying issues with Orchestrator
 ![IMAGE ALT TEXT HERE](https://github.com/bacdillon/UiPath-Automation/blob/main/Automation%20Testing/Animated%20image/Test%20Set%20in%20UiPath%20Orchestrator.gif)

@@ -9,16 +9,16 @@ Test automation is the process of executing test cases automatically using softw
 | Logout               | User Story 3           | `TC_003_UserCanLogout`                  | `/TestCases/AccountLogin/TC_003_UserCanLogout.xaml`    |
 | Create New Customer  | User Story 4           | `TC_004_UserCanCreateNewCustomer`       | `/TestCases/Customers/TC_004_UserCanCreateNewCustomer.xaml` |
 
-## Build resilient automations faster with Studio
+## Build resilient automations faster with UiPath Studio
 ![IMAGE ALT TEXT HERE](https://github.com/bacdillon/UiPath-Automation/blob/main/A%20Minimal%20Setup%20for%20Automation%20Testing/Animated%20image/sys_CRMApp_Testing_Alfred.gif)
 
-## Continuously test to uncover and fix underlying issues with Orchestrator
+## Continuously test to uncover and fix underlying issues with UiPath Orchestrator
 ![IMAGE ALT TEXT HERE](https://github.com/bacdillon/UiPath-Automation/blob/main/A%20Minimal%20Setup%20for%20Automation%20Testing/Animated%20image/Test%20Set%20in%20UiPath%20Orchestrator.gif)
 
-## Testing process by planning and monitoring tests	- Test Manager
+## Testing process by planning and monitoring tests	- UiPath Test Manager
 ![IMAGE ALT TEXT HERE](https://github.com/bacdillon/UiPath-Automation/blob/main/A%20Minimal%20Setup%20for%20Automation%20Testing/Animated%20image/Test%20all%20account%20login%20features%20(Test%20Manager).gif)
 
-## Data Driven Testing with form status
+## Data Driven Testing
 **Objective** <br>
 Data-driven testing, test workflows and applications across various scenarios. Ensure test cases use the prepared test data, debug and run data-driven test cases only from the Test Explorer panel. 
 
